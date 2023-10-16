@@ -1,3 +1,4 @@
+#python program to implement linear search
 def linearSearch(array, n, x):
     for i in range(0, n):
         if (array[i] == x):
