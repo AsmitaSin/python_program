@@ -1,3 +1,4 @@
+#geometric mean of n  numbers
 import math
 n = int(input("Enter the number of elements: "))
 product = 1
