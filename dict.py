@@ -1,3 +1,4 @@
+#print all items in dictionary
 dictionary = {
     
     "name": "John",
